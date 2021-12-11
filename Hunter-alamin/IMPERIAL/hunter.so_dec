@@ -1,0 +1,6 @@
+# Source Generated with Decompyle++
+# File: hunter.so (Python 3.10)
+
+import os
+os.system('clear')
+print('this File is closed for good')
